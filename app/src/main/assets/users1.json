@@ -1,0 +1,76 @@
+{
+  "next": "https://api.mendofeel.com/home/post/get_feed/?cursor=cD0zMjI%3D",
+  "previous": null,
+  "results": [
+    {
+      "id": 39,
+      "question_text": "hello",
+      "slug": "hello-06202022175455",
+      "author": 210,
+      "fullname": "Abhey Sharma",
+      "feed_id": 327,
+      "is_anonymous": false,
+      "topic": "lifestyle",
+      "choices": [
+        {
+          "id": 92,
+          "choice_text": "h",
+          "votes": 0,
+          "percentage": 0
+        },
+        {
+          "id": 93,
+          "choice_text": "vb",
+          "votes": 0,
+          "percentage": 0
+        }
+      ],
+      "can_vote": true,
+      "pollauthor": "abhey.sharma23",
+      "profile_photo": "https://mendofeel-asset.s3.amazonaws.com/media/users/profilepicture/4821b1a6-8d54-463b-90ba-23757df3a9f9_abhey.sharma23.jpg",
+      "total": 0,
+      "is_followed": false,
+      "is_requestuserpost": false,
+      "authorname": "abhey.sharma23",
+      "publish": "52 minutes ago",
+      "is_verified": false,
+      "type": "Polls",
+      "views": 8
+    },
+    {
+      "id": 37,
+      "question_text": "How many Men \" feel like a replaceable guy\" in relationship?",
+      "slug": "how-many-men-feel-like-a-replaceable-guy-in-relationship-06192022042528",
+      "author": 210,
+      "fullname": "Abhey Sharma",
+      "feed_id": 323,
+      "is_anonymous": false,
+      "topic": "lifestyle",
+      "choices": [
+        {
+          "id": 89,
+          "choice_text": "nahh",
+          "votes": 1,
+          "percentage": 25
+        },
+        {
+          "id": 88,
+          "choice_text": "+1",
+          "votes": 3,
+          "percentage": 75
+        }
+      ],
+      "can_vote": true,
+      "pollauthor": "abhey.sharma23",
+      "profile_photo": "https://mendofeel-asset.s3.amazonaws.com/media/users/profilepicture/4821b1a6-8d54-463b-90ba-23757df3a9f9_abhey.sharma23.jpg",
+      "total": 4,
+      "is_followed": false,
+      "is_requestuserpost": false,
+      "authorname": "abhey.sharma23",
+      "publish": "1 day ago",
+      "is_verified": false,
+      "type": "Polls",
+      "views": 58
+    }
+  ]
+}
